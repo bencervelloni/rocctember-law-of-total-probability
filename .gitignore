@@ -1,0 +1,16 @@
+# data
+data/*
+*.csv
+*.parquet
+*.rds
+# env / secrets
+.env
+venv/
+.venv/
+# Python / R / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
